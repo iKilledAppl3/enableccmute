@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.enableccmute
+Name: EnableCCMute
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable the mute toggle on all iOS devices.
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
